@@ -3,17 +3,15 @@
 💻 Web Developer building clean, secure, and practical solutions
 Structured thinking • Practical solutions • Security awareness
 
-ABUOT
-Alongside development, I continue expanding my knowledge of web security and secure coding practices.
+About
 
-I build responsive web applications using modern web technologies, with solid frontend and backend foundations.
+I build responsive web applications using modern technologies, with solid frontend and backend foundations.
 
-Alongside development, I continuously strengthen my understanding of databases, system logic, and secure coding principles.
+Alongside development, I continue expanding my knowledge of web security, system logic, and secure coding practices.
 
-👩🏻‍💻 Currently open to JUNIOR roles and small web projects.
+👩🏻‍💻 Currently open to junior roles and small web projects.
 
-
-Core Skills
+Skills
 
 Frontend
 HTML5 • CSS3 • JavaScript • Responsive Design
