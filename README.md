@@ -1,7 +1,6 @@
 👋 Hi, I'm Tumi Menegalli
 
-💻 Web Developer building clean, secure, and practical solutions
-Structured thinking • Practical solutions • Security awareness
+💻 Open to Junior Full Stack roles — React/Node/Postgres — Based in Switzerland/Remote
 
 About
 
@@ -9,7 +8,7 @@ I build responsive web applications using modern technologies, with solid fronte
 
 Alongside development, I continue expanding my knowledge of web security, system logic, and secure coding practices.
 
-👩🏻‍💻 Currently open to junior roles and small web projects.
+‼️👩🏻‍💻 Currently open to junior roles and small web projects.
 
 Skills
 
