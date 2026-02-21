@@ -1,6 +1,6 @@
 👋 Hi, I'm Tumi Menegalli
 
-💻 Open to Junior Full Stack roles — React/Node/Postgres — Based in Switzerland/Remote
+💻 Open to Web Development Full Stack roles — React/Node/Postgres — Based in Switzerland/Remote
 
 About
 
